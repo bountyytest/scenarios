@@ -1,9 +1,9 @@
 #!/bin/bash
 # Security research probe v5
 # v5 controls (http vs https + redirect following):
-#   http://74e20a86ea92fd.app.lhr.life/http-control
-#   https://74e20a86ea92fd.app.lhr.life/http-control
-#   http://74e20a86ea92fd.app.lhr.life/redir
+#   http://96a154e255b5bb.app.lhr.life/http-control
+#   https://96a154e255b5bb.app.lhr.life/http-control
+#   http://96a154e255b5bb.app.lhr.life/redir
 
 # Controls (periodic scan check):
 #   https://webhook.site/ce1618b8-3fec-400e-a2c5-a7e00ede16d2/ssrf-v4-a
