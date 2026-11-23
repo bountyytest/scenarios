@@ -1,5 +1,10 @@
 #!/bin/bash
-# Security research probe v5
+# Security research probe v7
+# v7 controls (final test round):
+#   http://webhook.site/ce1618b8-3fec-400e-a2c5-a7e00ede16d2/http-scheme-b
+#   https://whereas-nickel-forest-speaks.trycloudflare.com/http-control
+#   https://whereas-nickel-forest-speaks.trycloudflare.com/redir
+
 # v5 controls (http vs https + redirect following):
 #   http://fb8ab98fe34c30.app.lhr.life/http-control
 #   https://whereas-nickel-forest-speaks.trycloudflare.com/http-control
